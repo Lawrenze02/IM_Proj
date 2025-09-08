@@ -1,0 +1,8 @@
+C:\Csharp\IM Activities\UserInputList\UserInputList\bin\Debug\UserInputList.exe.config
+C:\Csharp\IM Activities\UserInputList\UserInputList\bin\Debug\UserInputList.exe
+C:\Csharp\IM Activities\UserInputList\UserInputList\bin\Debug\UserInputList.pdb
+C:\Csharp\IM Activities\UserInputList\UserInputList\obj\Debug\UserInputList.csproj.AssemblyReference.cache
+C:\Csharp\IM Activities\UserInputList\UserInputList\obj\Debug\UserInputList.csproj.CoreCompileInputs.cache
+C:\Csharp\IM Activities\UserInputList\UserInputList\obj\Debug\UserInputList.exe
+C:\Csharp\IM Activities\UserInputList\UserInputList\obj\Debug\UserInputList.pdb
+C:\Csharp\IM Activities\UserInputList\UserInputList\obj\Debug\UserInputList.exe.config
