@@ -55,8 +55,8 @@ namespace UserInputList
                 }
             }
 
-            Console.WriteLine($"the sum of all numbers  is: {sum}");
-            Console.WriteLine($"the average is: {avg}");
+            Console.WriteLine($"the sum of all numbers  is: {sum} ");
+            Console.WriteLine($"the average is: {avg} ");
 
 
 
