@@ -1,0 +1,8 @@
+C:\Csharp\IM Activities\SW1\DollarToPesoYen\DollarToPesoYen\bin\Debug\DollarToPesoYen.exe.config
+C:\Csharp\IM Activities\SW1\DollarToPesoYen\DollarToPesoYen\bin\Debug\DollarToPesoYen.exe
+C:\Csharp\IM Activities\SW1\DollarToPesoYen\DollarToPesoYen\bin\Debug\DollarToPesoYen.pdb
+C:\Csharp\IM Activities\SW1\DollarToPesoYen\DollarToPesoYen\obj\Debug\DollarToPesoYen.csproj.AssemblyReference.cache
+C:\Csharp\IM Activities\SW1\DollarToPesoYen\DollarToPesoYen\obj\Debug\DollarToPesoYen.csproj.CoreCompileInputs.cache
+C:\Csharp\IM Activities\SW1\DollarToPesoYen\DollarToPesoYen\obj\Debug\DollarToPesoYen.exe
+C:\Csharp\IM Activities\SW1\DollarToPesoYen\DollarToPesoYen\obj\Debug\DollarToPesoYen.pdb
+C:\Csharp\IM Activities\SW1\DollarToPesoYen\DollarToPesoYen\obj\Debug\DollarToPesoYen.exe.config
