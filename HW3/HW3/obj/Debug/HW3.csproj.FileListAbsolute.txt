@@ -1,0 +1,8 @@
+C:\Csharp\IM Activities\HW3\HW3\bin\Debug\HW3.exe.config
+C:\Csharp\IM Activities\HW3\HW3\bin\Debug\HW3.exe
+C:\Csharp\IM Activities\HW3\HW3\bin\Debug\HW3.pdb
+C:\Csharp\IM Activities\HW3\HW3\obj\Debug\HW3.csproj.AssemblyReference.cache
+C:\Csharp\IM Activities\HW3\HW3\obj\Debug\HW3.csproj.CoreCompileInputs.cache
+C:\Csharp\IM Activities\HW3\HW3\obj\Debug\HW3.exe
+C:\Csharp\IM Activities\HW3\HW3\obj\Debug\HW3.pdb
+C:\Csharp\IM Activities\HW3\HW3\obj\Debug\HW3.exe.config
